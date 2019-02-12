@@ -2,7 +2,7 @@
 ## Preparación
 Debes empezar clonando el repositorio del ejercicio con el siguiente comando:
 ```bash
-git clone http://sing.ei.uvigo.es/dt/gitlab/mrjato/git-train.git
+git clone https://github.com/lrcortizo/git-train.git
 ```
 
 A continuación ejecuta el script `add-git-lg.sh` para añadir el comando `git lg`, que muestra la historia de commits en forma de árbol decorado.
